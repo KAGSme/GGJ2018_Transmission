@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{c1993a70-e29a-476c-a5bb-8df0a92a28e9}">
+        <property name="assetPath">
+            <value>Fire, Burning, Wood, Crispy, Medium Intensity.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>96</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>39.287531250000001</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{aae7e6b6-4804-4288-bd23-74c75bc7352c}</destination>
+        </relationship>
+    </object>
+</objects>
