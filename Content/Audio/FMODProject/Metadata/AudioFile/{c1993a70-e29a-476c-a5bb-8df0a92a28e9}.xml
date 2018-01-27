@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.01.10.00">
     <object class="AudioFile" id="{c1993a70-e29a-476c-a5bb-8df0a92a28e9}">
         <property name="assetPath">
-            <value>Fire, Burning, Wood, Crispy, Medium Intensity.wav</value>
+            <value>Fire/Fire, Burning, Wood, Crispy, Medium Intensity.wav</value>
         </property>
         <property name="isStreaming">
             <value>true</value>

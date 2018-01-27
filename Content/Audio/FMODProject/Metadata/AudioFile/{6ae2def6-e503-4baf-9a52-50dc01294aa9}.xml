@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.01.10.00">
     <object class="AudioFile" id="{6ae2def6-e503-4baf-9a52-50dc01294aa9}">
         <property name="assetPath">
-            <value>Fire, Torch, Medium, Movement 1 SND8752.wav</value>
+            <value>Fire/Fire, Torch, Medium, Movement 1 SND8752.wav</value>
         </property>
         <property name="frequencyInKHz">
             <value>96</value>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.01.10.00">
-    <object class="AudioFile" id="{73d2dbea-6cc5-4241-a913-5abc0d642ff7}">
+    <object class="AudioFile" id="{82ade8fc-0329-4e91-96a1-c9565515b96c}">
         <property name="assetPath">
-            <value>Fire/Whoosh, Fire Spray, Heavy Blast 1 SND8745.wav</value>
+            <value>Door/DoorClose2.wav</value>
         </property>
         <property name="frequencyInKHz">
             <value>96</value>
@@ -11,7 +11,7 @@
             <value>2</value>
         </property>
         <property name="length">
-            <value>0.80879166666666669</value>
+            <value>0.93098958333333337</value>
         </property>
         <relationship name="masterAssetFolder">
             <destination>{aae7e6b6-4804-4288-bd23-74c75bc7352c}</destination>
