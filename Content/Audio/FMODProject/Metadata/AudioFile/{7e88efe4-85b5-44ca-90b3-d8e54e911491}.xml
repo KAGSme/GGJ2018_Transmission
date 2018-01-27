@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.01.10.00">
     <object class="AudioFile" id="{7e88efe4-85b5-44ca-90b3-d8e54e911491}">
         <property name="assetPath">
-            <value>Fire, Burning, Wood, Medium Burst, Crackles SND8760 1.wav</value>
+            <value>Fire/Fire, Burning, Wood, Medium Burst, Crackles SND8760 1.wav</value>
         </property>
         <property name="frequencyInKHz">
             <value>96</value>

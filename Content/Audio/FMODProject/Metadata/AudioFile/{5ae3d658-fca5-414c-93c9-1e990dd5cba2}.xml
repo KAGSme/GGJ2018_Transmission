@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.01.10.00">
     <object class="AudioFile" id="{5ae3d658-fca5-414c-93c9-1e990dd5cba2}">
         <property name="assetPath">
-            <value>Design, Whoosh, Fire 2 SND12028.wav</value>
+            <value>Fire/Design, Whoosh, Fire 2 SND12028.wav</value>
         </property>
         <property name="frequencyInKHz">
             <value>96</value>

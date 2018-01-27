@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.01.10.00">
     <object class="AudioFile" id="{38084e22-0fd8-4a86-b00d-7505b4c95195}">
         <property name="assetPath">
-            <value>Fire, Burning, Wood, Soft Intensity SND8758 1.wav</value>
+            <value>Fire/Fire, Burning, Wood, Soft Intensity SND8758 1.wav</value>
         </property>
         <property name="isStreaming">
             <value>true</value>
