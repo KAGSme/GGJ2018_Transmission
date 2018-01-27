@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{f618e81a-fb70-4f3f-8d50-a6c5b8dc81e4}">
+        <property name="assetPath">
+            <value>Whoosh Low Short/Design, Whoosh, Low, Short 4 SND11972.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>96</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>2.3582291666666668</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{aae7e6b6-4804-4288-bd23-74c75bc7352c}</destination>
+        </relationship>
+    </object>
+</objects>
