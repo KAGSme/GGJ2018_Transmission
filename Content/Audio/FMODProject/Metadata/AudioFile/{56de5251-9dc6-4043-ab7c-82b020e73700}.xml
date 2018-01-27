@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{56de5251-9dc6-4043-ab7c-82b020e73700}">
+        <property name="assetPath">
+            <value>Stab, Impact, Vegetables, Short, Squeezing, Slurps, Bloody, Flesh, Guts 2 SND10563.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>96</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1.9944791666666666</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{aae7e6b6-4804-4288-bd23-74c75bc7352c}</destination>
+        </relationship>
+    </object>
+</objects>
