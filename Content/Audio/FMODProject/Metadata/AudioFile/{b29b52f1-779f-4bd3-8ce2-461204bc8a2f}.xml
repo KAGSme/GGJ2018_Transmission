@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{b29b52f1-779f-4bd3-8ce2-461204bc8a2f}">
+        <property name="assetPath">
+            <value>Footsteps/Footsteps, Rug, Bare Foot, Running SND1105 23.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>96</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>0.20329166666666668</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{aae7e6b6-4804-4288-bd23-74c75bc7352c}</destination>
+        </relationship>
+    </object>
+</objects>

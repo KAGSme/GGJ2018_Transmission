@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPreset" id="{7f7ffe90-cd89-4862-b2f1-5c6702203a81}">
+        <property name="name">
+            <value>wiggle</value>
+        </property>
+        <relationship name="folder">
+            <destination>{f5ac71e0-1ea2-4645-911b-738ede42f6b4}</destination>
+        </relationship>
+        <relationship name="parameter">
+            <destination>{0b027a68-36db-4a0d-903e-3b7a71361a80}</destination>
+        </relationship>
+    </object>
+    <object class="GameParameter" id="{0b027a68-36db-4a0d-903e-3b7a71361a80}">
+        <property name="initialValue">
+            <value>0</value>
+        </property>
+    </object>
+</objects>
